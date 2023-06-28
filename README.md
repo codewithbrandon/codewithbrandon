@@ -5,10 +5,10 @@
 
 
 
-- 🔭 I’m currently working on Shopify
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about Shopify Store Setups
-- 📫 How to reach me: ...webproz87@gmail.com
+- 🔭 I’m currently working on Python Projects
+- 🌱 I’m currently learning Splunk and Wireshark
+- 💬 Willing to do Contract Remote work
+- 📫 How to reach me: ...awspro87@gmail.com
 - 😄 Pronouns: he/him
 
 
