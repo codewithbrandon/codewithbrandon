@@ -1,4 +1,4 @@
-<h1>Hi, Brandon! <br/><a href="https://github.com/codewithbrandon">TS Cleared Contractor</a>, Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Front End Developer</a></h1>
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/codewithbrandon">TS Cleared Contractor</a>, Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">Front End Developer</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -14,7 +14,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]:https://www.linkedin.com/in/brandon-harris-49b514253/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
