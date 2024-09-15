@@ -2,7 +2,7 @@
 <h2><a href="https://github.com/codewithbrandon">📧 HTML Email Developer</a> | <a href="https://www.linkedin.com/in/brandon-harris-49b514253/">Cybersecurity Enthusiast</a> | <a> Shopify Developer</a></h2>
 
 <h2>👨‍💻 About Me:</h2>
-<p>As a TS Cleared Contractor and a passionate HTML Email Developer, I specialize in creating responsive, engaging email designs that drive results. My expertise extends to Shopify development, where I implement custom e-commerce solutions to enhance user experience and boost sales. My background in cybersecurity further enriches my approach, allowing me to enhance email and e-commerce security.</p>
+<p>As a Top Secret Cleared Contractor and a passionate HTML Email Developer, I specialize in creating responsive, engaging email designs that drive results. My expertise extends to Shopify development, where I implement custom e-commerce solutions to enhance user experience and boost sales. My background in cybersecurity further enriches my approach, allowing me to enhance email and e-commerce security.</p>
 
 <h2>🛠️ Projects:</h2>
 <ul>
