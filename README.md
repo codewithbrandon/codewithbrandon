@@ -6,7 +6,7 @@
 
 As a former Top Secret Cleared Contractor, my foundation is built on procedural rigor, data confidentiality, and mission-critical execution. My extensive investigative background directly translates to advanced alert triage and anomaly detection, focusing on the correlation of disparate data points to uncover complex security risks. I now focus my technical skills on SIEM operations, Python scripting, and network analysis to contribute immediately to a security team.</p>
 
-My background gives me a distinct advantage in the SOC:
+My background gives me a distinct advantage in the SOC
 
 <ul>
   <li>Investigative Mindset: Proven ability to gather facts, correlate disparate data points, and identify anomalies under strict regulatory frameworks.</li>
