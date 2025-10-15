@@ -1,7 +1,7 @@
 <h1>Hi, I'm Brandon! 🌐</h1>
 <h2><a href="https://github.com/codewithbrandon">SOC Analyst</a> | <a>CompTia Security+</a> | <a> Top Secret Clearance</a></h2>
 
-<h2>👨‍💻 About Me:</h2>
+<h2>👨‍💻 About Me</h2>
 <p>I am a dedicated professional successfully leveraging over 20 years of experience in high-stakes, process-driven environments (Federal Investigation, TSA, Logistics) into Cybersecurity Operations.
 
 As a former Top Secret Cleared Contractor, my foundation is built on procedural rigor, data confidentiality, and mission-critical execution. My extensive investigative background directly translates to advanced alert triage and anomaly detection, focusing on the correlation of disparate data points to uncover complex security risks. I now focus my technical skills on SIEM operations, Python scripting, and network analysis to contribute immediately to a security team.</p>
@@ -18,14 +18,14 @@ My background gives me a distinct advantage in the SOC:
 
 I am actively building a foundational technical skillset focused on SIEM, Linux, and Python to achieve a remote SOC Analyst role.
 
-<h2>🛠️ Projects:</h2>
+<h2>🛠️ Projects</h2>
 <ul>
   <li><a href="[Link-to-your-project]">Python Log Parser & Brute-Force Detector</a></li>
   <li><a href="[Link-to-your-project]">Incident Triage Workflow Simulation</a></li>
   <li><a href="[Link-to-your-project]">Network Traffic & Protocol Analysis</a></li>
 </ul>
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certifications</h2>
 <ul>
   <li>CompTIA Security+</li>
   <li>Google Cybersecurity Professional</li>
@@ -34,7 +34,7 @@ I am actively building a foundational technical skillset focused on SIEM, Linux,
   <li>Microsoft Azure Security Engineer Associate (In progress)</li>
 </ul>
 
-<h2>🌱 I’m currently learning:</h2>
+<h2>🌱 I’m currently learning</h2>
 <ul>
   <li>SIEM Mastery: Focused training on Splunk Search Processing Language (SPL) for advanced querying, dashboard creation, and rule tuning.</li>
   <li>Linux CLI: Deep dive into advanced text manipulation commands (awk, sed) for efficient terminal-based log correlation.</li>
