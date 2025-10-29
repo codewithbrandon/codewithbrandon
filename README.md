@@ -20,7 +20,7 @@ I am actively building a foundational technical skillset focused on SIEM, Linux,
 
 <h2>🛠️ Projects</h2>
 <ul>
-  <li><a href="[Link-to-your-project]">Python Log Parser & Brute-Force Detector</a></li>
+  <li><a href="https://github.com/codewithbrandon/Phishing-Incident-Analysis">Phishing-Incident-Analysis</a></li>
   <li><a href="[Link-to-your-project]">Incident Triage Workflow Simulation</a></li>
   <li><a href="[Link-to-your-project]">Network Traffic & Protocol Analysis</a></li>
 </ul>
