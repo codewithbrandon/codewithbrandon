@@ -23,6 +23,7 @@ I am actively building a foundational technical skillset focused on SIEM, Linux,
   <li><a href="https://github.com/codewithbrandon/Phishing-Incident-Analysis">Phishing-Incident-Analysis</a></li>
   <li><a href="https://github.com/codewithbrandon/honeypot">honeypot</a></li>
   <li><a href="https://github.com/codewithbrandon/malware-triage">malware-triage</a></li>
+  <li><a href="https://github.com/codewithbrandon/vulnlab1">Vulnerability Lab</a></li>
 </ul>
 
 <h2>📜 Certifications</h2>
