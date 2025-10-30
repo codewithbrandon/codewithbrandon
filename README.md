@@ -54,7 +54,7 @@ I am actively building a foundational technical skillset focused on SIEM, Linux,
 <p>I am actively seeking a Remote SOC Analyst role. Feel free to reach out if you are hiring, mentoring, or interested in collaborating on security projects!🚀</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/brand0n-harris">LinkedIn</a></li>
-  <li><a href="https://www.brandonharris.dev">Portfolio</a></li>
+  <li><a href="#">Portfolio</a></li>
 </ul>
 
 <!--
