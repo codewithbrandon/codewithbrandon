@@ -42,6 +42,13 @@ I am actively building a foundational technical skillset focused on SIEM, Linux,
   <li>PowerShell: Exploring defensive scripting and understanding Windows telemetry for effective endpoint monitoring.</li>
 </ul>
 
+<h2>🌱 Blogs</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/understanding-owasp-top-10-pen-testing-brandon-harris--f7dse?trackingId=kaSRa549QiiCia0OYOE5sg%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_content_view%3BaOAC6NLAROyGdLY%2FNAyMAw%3D%3D">Owasp Top 10</li>
+  <li>Linux CLI: Deep dive into advanced text manipulation commands (awk, sed) for efficient terminal-based log correlation.</li>
+  <li>PowerShell: Exploring defensive scripting and understanding Windows telemetry for effective endpoint monitoring.</li>
+</ul>
+
 <h2>🤝 Additiional Skills</h2>
 <ul>
   <li>HTML Email Developer</li>
