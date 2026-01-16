@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brandon! 🌐</h1>
-<h2><a href="https://github.com/codewithbrandon">Cloud Security Operations </a> | <a>CompTia Security+</a> | <a>Top Secret Cleared</a> |<a>Linux Systems Analyst</a> </h2>
+<h2><a href="https://github.com/codewithbrandon"> Security Operations </a> | <a>CompTia Security+</a> | <a>Top Secret Cleared</a> |<a>Linux Systems Analyst</a> </h2>
 
 <h2>👨‍💻 About Me</h2>
 <p>I am a dedicated professional successfully leveraging over 20 years of experience in high-stakes, process-driven environments (Federal Investigation, TSA, Logistics) into Cybersecurity Operations.
