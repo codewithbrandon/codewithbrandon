@@ -18,7 +18,7 @@ Core Strengths
   <li>High Attention to Detail: Trained to spot subtle exceptions in massive data flows (essential for alert triage).</li>
 </ul>
 
-I am actively building a foundational technical skillset focused on SIEM, Linux, and Python to achieve a remote SOC Analyst role.
+I am actively advancing my technical skillset across SIEM operations, Linux systems, and Python automation to pursue remote or hybrid roles in Security Operations, Linux Systems, Cloud Operations, or Industrial/OT environments.
 
 <h2>🛠️ Projects</h2>
 <ul>
