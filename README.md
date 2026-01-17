@@ -53,10 +53,10 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
 
 <h2>🤝 Additiional Skills</h2>
 <ul>
-  <li>HTML Email Developer</li>
-  <li>Pentesting</li>
-  <li>Freelance Web Developer</li>
-  <li>Shopify Developer</li>
+  <li>Linux System Administration (RHEL)</li>
+ <li>SIEM Monitoring & Alert Triage</li>
+ <li>Incident Investigation & Log Analysis</li>
+ <li>Python Automation (Security & Operations)</li>
 </ul>
 
 <h2>🤝 Connect with me</h2>
