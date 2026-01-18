@@ -6,7 +6,7 @@
 
 My background as a former Top Secret cleared contractor established a strong foundation in procedural rigor, data integrity, and compliance-driven execution. This investigative experience directly translates to SOC-level alert triage, incident investigation, and threat analysis, where correlating disparate data sources and identifying subtle anomalies is critical. I currently focus on SIEM monitoring, Linux systems, network analysis, and Python-based automation to support detection, response, and operational reliability.
 
-What differentiates me in a SOC or operations environment is my ability to operate effectively where availability, safety, and security intersect—skills reinforced through hands-on work supporting high-voltage battery manufacturing systems and production documentation in a high-availability environment.</p>
+What differentiates me in a SOC or operations environment is my ability to operate effectively where availability, safety, and security intersect skills reinforced through hands-on work supporting high-voltage battery manufacturing systems and production documentation in a high-availability environment.</p>
 
 Core Strengths
 
