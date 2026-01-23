@@ -26,6 +26,7 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
   <li><a href="https://github.com/codewithbrandon/honeypot">honeypot</a></li>
   <li><a href="https://github.com/codewithbrandon/malware-triage">malware-triage</a></li>
   <li><a href="https://github.com/codewithbrandon/vulnlab1">Vulnerability Lab</a></li>
+  <li><a href="https://github.com/codewithbrandon/secure-vault"> Secure Site Design</li>
 </ul>
 
 <h2>📜 Certifications</h2>
