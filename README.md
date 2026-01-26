@@ -58,7 +58,6 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
 </ul>
 
 <h2>🤝 Connect with me</h2>
-<p>I am actively exploring remote or hybrid opportunities across Security Operations, Linux Systems, Cloud Operations, and Industrial IT. I welcome connections related to hiring, mentorship, or collaboration on security and operations-focused projects. 🚀</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/brand0n-harris">LinkedIn</a></li>
   <li><a href="#">Portfolio</a></li>
