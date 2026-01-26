@@ -2,20 +2,16 @@
 <h2><a href="https://github.com/codewithbrandon"> Security Operations </a> | <a>CompTia Security+</a> | <a>Top Secret Cleared</a> | <a>Linux Systems Analyst</a> </h2>
 
 <h2>👨‍💻 About Me</h2>
-<p>I am an Industrial IT and Cybersecurity professional leveraging over 20 years of experience in regulated, high-stakes operational environments including federal investigations, aviation security, and mission-critical manufacturing into Security Operations and Linux-based systems support.
+<p>Security Operations & Linux Systems professional with hands-on experience building detection labs, performing incident triage, and operating in regulated, high-availability environments.</p>
 
-My background as a former Top Secret cleared contractor established a strong foundation in procedural rigor, data integrity, and compliance-driven execution. This investigative experience directly translates to SOC-level alert triage, incident investigation, and threat analysis, where correlating disparate data sources and identifying subtle anomalies is critical. I currently focus on SIEM monitoring, Linux systems, network analysis, and Python-based automation to support detection, response, and operational reliability.
-
-What differentiates me in a SOC or operations environment is my ability to operate effectively where availability, safety, and security intersect skills reinforced through hands-on work supporting high-voltage battery manufacturing systems and production documentation in a high-availability environment.</p>
-
-Core Strengths
+My work focuses on:
 
 <ul>
-  <li>Investigative Mindset: Proven ability to gather facts, correlate disparate data points, and identify anomalies under strict regulatory frameworks.</li>
+  <li>SIEM monitoring & alert triage</li>
 
-  <li>Procedural Adherence: Expert in following rigorous, defined protocols (critical for Incident Response Playbooks).</li>
+  <li>Linux systems analysis and log correlation.</li>
 
-  <li>High Attention to Detail: Trained to spot subtle exceptions in massive data flows (essential for alert triage).</li>
+  <li>Threat detection via honeypots, phishing analysis, and malware triage.</li>
 </ul>
 
 I am actively advancing my technical skillset across SIEM operations, Linux systems, and Python automation to pursue remote or hybrid roles in Security Operations, Linux Systems, Cloud Operations, or Industrial/OT environments.
@@ -34,7 +30,7 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
 <ul>
   <li>CompTIA Security+</li>
   <li>Google Cybersecurity Professional</li>
-  <li>LetsDefend Soc Analyst Learning Path</li>
+  <li>LetsDefend SOC Analyst Learning Path</li>
   <li>Qualys Vulnerability Management Detection & Response</li>
   <li>Microsoft Azure Security Engineer Associate (In progress)</li>
 </ul>
@@ -48,12 +44,12 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
 
 <h2>🌱 My Blogs</h2>
 <ul>
-  <li><a href="https://shorturl.at/UpaOv">Owasp Top 10</li>
-  <li><a href="https://shorturl.at/EyPzT">Art of the Soc</li>
+  <li><a href="https://shorturl.at/UpaOv">OWASP Top 10</li>
+  <li><a href="https://shorturl.at/EyPzT">Art of the SOC</li>
   <li><a href="https://shorturl.at/w1lre">Phish Hunter Toolkit</li>
   </ul>
 
-<h2>🤝 Additiional Skills</h2>
+<h2>🤝 Additional Skills</h2>
 <ul>
   <li>Linux System Administration (RHEL)</li>
  <li>SIEM Monitoring & Alert Triage</li>
