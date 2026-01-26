@@ -27,7 +27,7 @@ I am actively advancing my technical skillset across SIEM operations, Linux syst
   <li><a href="https://github.com/codewithbrandon/malware-triage">malware-triage</a></li>
   <li><a href="https://github.com/codewithbrandon/vulnlab1">Vulnerability Lab</a></li>
   <li><a href="https://github.com/codewithbrandon/secure-vault"> Secure Site Design</li>
-  <li><a href="https://github.com/codewithbrandon/vuln-scanner/blob/main/claude/PROJECT_WRITEUP.md">Vulnerability Scanner</li>
+  <li><a href="https://github.com/codewithbrandon/vuln-scanner/blob/main/PROJECT_WRITEUP.md">Vulnerability Scanner</li>
 </ul>
 
 <h2>📜 Certifications</h2>
