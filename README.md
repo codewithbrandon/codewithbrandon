@@ -51,15 +51,11 @@ https://github.com/codewithbrandon/cloud-threat-detection
 
 ---
 
-### 🧰 Secure Vault  
-Security-first web application demonstrating hardened authentication and secure design patterns  
-https://github.com/codewithbrandon/secure-vault
+### ☁️ Azure Cloud Resume Challenge  
+**Serverless cloud portfolio deployment with CI/CD integration**
 
----
-
-### 🔎 Vulnerability Scanner  
-Security automation tool for repeatable scanning & reporting workflows  
-https://github.com/codewithbrandon/vuln-scanner
+Azure Blob Storage • Azure Functions • Cosmos DB • GitHub Actions  
+https://github.com/codewithbrandon/azure-cloud-resume
 
 ---
 
