@@ -1,7 +1,8 @@
 <h1 align="center">Brandon Harris</h1>
-
+<h2 align="center">Principal Azure Architect & Cloud Security Consultant</h2>
 <p align="center">
   <strong>Cloud Security & Detection Engineer</strong><br>
+  <em>Maintained by Elite Technical Solutions L.L.C. for Enterprise Reference Architectures & DevSecOps Validation</em><br><br>
   Secure by Design · Detect at Runtime · Respond with Precision<br>
   Former U.S. Government Top Secret Cleared Professional
 </p>
@@ -51,7 +52,7 @@ https://github.com/codewithbrandon/cloud-threat-detection
 
 ---
 
-### ☁️ Azure Cloud Resume Challenge  
+### ☁️ Azure Serverless Portfolio Architecture  
 **Serverless cloud portfolio deployment with CI/CD integration**
 
 Azure Blob Storage • Azure Functions • Cosmos DB • GitHub Actions  
@@ -89,6 +90,12 @@ Microsoft Azure Security Engineer (In Progress)
 - Infrastructure Security Validation  
 - Security Automation with Python  
 
+---
+### 💼 B2B & C2C Consulting Capabilities
+Available for short-term and long-term enterprise consulting engagements via **Elite Carolina Rental L.L.C.**:
+- **Services:** Azure Security Audits, Infrastructure as Code (Terraform/OPA), AKS Hardening, Sentinel SIEM Setup.
+- **Contract Models:** Corp-to-Corp (C2C), Statement of Work (SOW), Fixed-Price Milestones.
+- **Insurance & Compliance:** E&O / Cyber Liability Insured, Dedicated Isolated Infrastructure.
 ---
 
 ## 🤝 Connect
