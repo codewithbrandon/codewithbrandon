@@ -1,10 +1,12 @@
 <h1 align="center">Brandon Harris</h1>
-<h2 align="center">Principal Azure Architect & Cloud Security Consultant</h2>
+
+<h2 align="center">Cloud Security Engineer</h2>
+
 <p align="center">
-  <strong>Cloud Security & Detection Engineer</strong><br>
-  <em>Maintained by Elite Technical Solutions L.L.C. for Enterprise Reference Architectures & DevSecOps Validation</em><br><br>
-  Secure by Design · Detect at Runtime · Respond with Precision<br>
-  Former U.S. Government Top Secret Cleared Professional
+  <strong>Azure & Kubernetes Security</strong><br>
+  <em>Building hands-on expertise in secure cloud infrastructure & detection engineering</em><br><br>
+  Security-Focused · Detail-Oriented · Studying AZ-104 & RHCSA<br>
+  CompTIA Security+ Certified
 </p>
 
 <p align="center">
@@ -76,9 +78,9 @@ https://github.com/codewithbrandon/Phishing-Incident-Analysis
 
 CompTIA Security+  
 Google Cybersecurity Professional  
-LetsDefend SOC Analyst Path  
-Qualys VMDR  
-Microsoft Azure Security Engineer (In Progress)
+Microsoft Azure Fundamentals 
+Studying for AZ 104
+Studying for RHCSA
 
 ---
 
