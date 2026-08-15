@@ -6,7 +6,7 @@
   <strong>Azure & Kubernetes Security</strong><br>
   <em>Building hands-on expertise in secure cloud infrastructure & detection engineering</em><br><br>
   Security-Focused · Detail-Oriented · Studying AZ-104 & RHCSA<br>
-  CompTIA Security+ Certified
+  CompTIA Security+ Certified · Former U.S. Government Top Secret Cleared Professional
 </p>
 
 <p align="center">
