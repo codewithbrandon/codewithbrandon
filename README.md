@@ -92,12 +92,7 @@ Studying for RHCSA
 - Infrastructure Security Validation  
 - Security Automation with Python  
 
----
-### 💼 B2B & C2C Consulting Capabilities
-Available for short-term and long-term enterprise consulting engagements via **Elite Carolina Rental L.L.C.**:
-- **Services:** Azure Security Audits, Infrastructure as Code (Terraform/OPA), AKS Hardening, Sentinel SIEM Setup.
-- **Contract Models:** Corp-to-Corp (C2C), Statement of Work (SOW), Fixed-Price Milestones.
-- **Insurance & Compliance:** E&O / Cyber Liability Insured, Dedicated Isolated Infrastructure.
+
 ---
 
 ## 🤝 Connect
