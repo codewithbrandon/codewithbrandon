@@ -37,19 +37,12 @@ My work bridges **Cloud Infrastructure, Identity Governance, and Enterprise Auto
 
 ---
 
-## 🚀 Flagship Projects
+## 🚀 Flagship Projects & Enterprise Capstones
 
 ### 🔐 Secure Cloud Platform  
 **Zero-trust Azure infrastructure with CI/CD enforcement and security validation**  
 *Terraform • AKS • Jenkins • OPA • Microsoft Sentinel*  
 https://github.com/codewithbrandon/secure-cloud-platform
-
----
-
-### 📊 PCS Changepoint & Audit Hub (PRACR)  
-**Enterprise process risk management & standardized work audit app built during Toyota GEMS**  
-*Power Apps • Power Automate • SharePoint • Power BI*  
-https://github.com/codewithbrandon/pcs-changepoint-audit-hub
 
 ---
 
@@ -67,6 +60,13 @@ https://github.com/codewithbrandon/azure-cloud-resume
 
 ---
 
+### 🏭 PCS Changepoint & Audit Hub (Enterprise Capstone)  
+**Process risk management & standardized work audit platform engineered during Toyota GEMS**  
+*Power Apps • Power Automate • Relational Architecture • Power BI Analytics*  
+*(Enterprise Low-Code Architecture | Internal Solution)*
+
+---
+
 ### 🕵️ Honeypot Lab  
 **Adversary telemetry collection and behavior analysis platform**  
 https://github.com/codewithbrandon/honeypot
@@ -76,7 +76,6 @@ https://github.com/codewithbrandon/honeypot
 ### ✉️ Phishing Incident Analysis  
 **SOC-style email investigation with IOC extraction and mitigation strategy**  
 https://github.com/codewithbrandon/Phishing-Incident-Analysis
-
 ---
 
 ## 📜 Certifications & Achievements
